@@ -18,16 +18,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! 
+Hello! I'm Guanwen Xie, a first-grade graduate student from Tsinghua University, supervised by Prof. Daoyi Chen and Yong Ren. Before this, I've obtained B. Eng. of ocean technology in Zhejiang University, supervised by Prof. Dongfang Ma.
 
-My research interest includes 
+Since my undergraduate studies, I have been passionate about underwater robotics. My interest lies in integrating the ocean with the latest advancements in reinforcement learning and machine learning, such as learning from demonstrations (LfD) and experience mining, intelligent large language models(LLMs) , etc. I continuously explore new possibilities and strive to make research outcomes as universal and user-friendly as possible for researchers.
 
-Here is my [Curriculum Vitae(CV)](https://360zmem.github.io/files/CV.pdf).
+Feel free to email me at [gwxie360@outlook.com](mailto:gwxie360@outlook.com) !
 
 
 # 🔥 News
 
 - *2024.09*: &nbsp;🎉🎉 I have reconstruct my homepage to make it more compact and easy-to-read.
+- *2024.09*: The record of my first long-distance car driving experience - Beihai-Shenzhen POV video has uploaded to [Bilibili](https://www.bilibili.com/video/BV195t7eeEWb).
+- *2024-08*: I start a new stage of my study in Tsinghua University.
 
 # 📝 Publications 
 
@@ -46,7 +48,7 @@ LLMs as Efficient Reward Function Searchers for Custom-Environment MORL
 
 [[**Website&Code**]](https://360zmem.github.io/LLMRsearcher/)  [[**Arxiv**]](https://arxiv.org/abs/2409.02428)  [[**BibTeX**]](https://360zmem.github.io/files/BibTeX/xiellmrsearcher.bib) 
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**TLDR:** An efficient reward function searcher using LLMs (ERFSL) is achieved by decomposing multi-objective tasks to provide clear textual task feedback, utilizing LLM's strong semantic understanding capabilities, and incorporating versatile search strategies.
 
 </div>
 </div>
@@ -64,7 +66,7 @@ LLMs as Efficient Reward Function Searchers for Custom-Environment MORL
 
 [[**PDF**]](https://360zmem.github.io/files/PDF/FISHER_tmc.pdf)  [[**BibTeX**]](https://360zmem.github.io/files/BibTeX/FISHERconf2024.bib) 
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**TLDR:** Leveraging sim2sim expert trajectories transformation process facilitates the generation of demonstrations. Based on this, a two-stage framework called FISHER of MADAC imitation learning (IL) and MAIGDT offline reinforcement learning (ORL) is employed to achieve high generalized and applicable multi-AUV target tracking policies without designating reward functions.
 
 </div>
 </div>
@@ -81,7 +83,7 @@ Jingzehua Xu\*, **Guanwen Xie\***, Zekai Zhang, Xiangwang Hou, Shuai Zhang, Yong
 
 [[**PDF**]](https://360zmem.github.io/files/PDF/hptvsim.pdf)  [[**BibTeX**]](https://360zmem.github.io/files/BibTeX/hptvsim.bib) 
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**TLDR:** A highly customizable and high-precision physics simulation platform called HPTVsim has been developed based on ROS and Gazebo. Combined with the RL compatibility layer based on RoboEnv Class, it can be easily applied to a variety of RL tasks. Based on this platform, an efficient training framework of scenario transfer RL training and offline reinforcement learning is utilized for underwater pursuit-evasion game (UPEG).
 
 </div>
 </div>
@@ -97,7 +99,7 @@ USV-AUV Collaboration Framework for Underwater Tasks under Extreme Sea Condition
 
 [[**Code**]](https://github.com/360ZMEM/USV-AUV-colab) [[**Arxiv**]](https://arxiv.org/abs/2409.02444)  [[**BibTeX**]](https://360zmem.github.io/files/BibTeX/extreme.bib) 
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**TLDR:** By utilizing the USV-AUV collaborative framework, the accuracy of AUV positioning can be enhanced in extreme sea conditions. USV and AUV cooperatively execute the data collection task of internet of underwater things (IoUT).
 
 </div>
 </div>
@@ -109,26 +111,59 @@ USV-AUV Collaboration Framework for Underwater Tasks under Extreme Sea Condition
 - Advanced Framework for Underwater Node Repair via Multi-AUV Based on Multi-Agent Offline Reinforcement Learning, Yimian Ding\*, Jingzehua Xu\*, **Guanwen Xie**, Gang Li, Jingjing Wang and Yong Ren. **OCEANS 2024 Halifax** [[**PDF**]](https://360zmem.github.io/files/PDF/OCEANS2.pdf)  [[**BibTeX**]](https://360zmem.github.io/files/BibTeX/oc_noderepair.bib)
 
 - Enhancing Information Freshness: An AoI Optimized Markov Decision Process Dedicated in The Underwater Task, Yimian Ding\*, Jingzehua Xu\*, Yiyuan Yang, **Guanwen Xie** and Shuai Zhang. **Arxiv** [[**Code**]](https://github.com/Xiboxtg/AoI-MDP)  [[**Arxiv**]](https://arxiv.org/abs/2409.02424)  [[**BibTeX**]](https://360zmem.github.io/files/BibTeX/dingaoimdp.bib) 
-- Multi-AUV Assisted Seamless Underwater Target Tracking Relying on Deep Learning and Reinforcement Learning, Jingzehua Xu\*, Yimian Ding\*, Zekai Zhang, **Guanwen Xie**, Ziyuan Wang, Yongming Zeng and Gang Li. **IEEE WCCI 2024**  [[**PDF**]](https://360zmem.github.io/files/PDF/edatacol.pdf)  [[**BibTeX**]](https://360zmem.github.io/files/BibTeX/edatacol.bib) [**News Coverage**(中文报道)](http://oc.zju.edu.cn/2024/0329/c29862a2896096/page.htm)
+- Multi-AUV Assisted Seamless Underwater Target Tracking Relying on Deep Learning and Reinforcement Learning, Jingzehua Xu\*, Yimian Ding\*, Zekai Zhang, **Guanwen Xie**, Ziyuan Wang, Yongming Zeng and Gang Li. **IEEE WCCI 2024**  [[**PDF**]](https://360zmem.github.io/files/PDF/edatacol.pdf)  [[**BibTeX**]](https://360zmem.github.io/files/BibTeX/edatacol.bib) [[**News Coverage**(中文报道)]](http://oc.zju.edu.cn/2024/0329/c29862a2896096/page.htm)
 - Fisher-Information-Matrix-Based USBL Cooperative Location in USV--AUV Networks, Ziyuan Wang, Jingzehua Xu, Yuanzhe Feng, Yijing Wang, **Guanwen Xie**, Xiangwang Hou, Wei Men, and Yong Ren. **Sensors 2023** **[[Online Publication]](https://www.mdpi.com/1424-8220/23/17/7429) [[PDF]](https://360zmem.github.io/files/PDF/w2023.pdf) [[BibTeX]](https://360zmem.github.io/files/BibTeX/w2023.bib)**
 
-# 🎖 Honors and Awards
+# 🥇 Selected Honors and Awards
 
-- 2024 Outstanding Graduate (awarded to top undergraduates in Zhejiang University)
-- 2023 Runhe Scholarship (1% Top in Zhejiang University)
-- 2023
+**Scholarship**
 
-# 📖 Educations
+- **2024** Outstanding Graduate **(awarded to top undergraduates in Zhejiang University)**
+- **2023** Runhe Scholarship **(1% Top in ZJU)**
+- **2022** Zhejiang Provincal Government Scholarship **(3% Top in ZJU)**
 
-2024.09 - 2027.03 (expected), **Tsinghua University**, M. S.
+**Experience**
 
-*2020.09 - 2024.06*, **Zhejiang University**, B. Eng.
+- **2023** First Prize of "Aotuo Cup" National Underwater Robot Designing Competition **(Top 5% of all participants of finals)**
+- **2022** First Prize of Zhejiang Provincal Student Physics Innovation Competition (Theory)
 
-- GPA: 92.4 / 100 (rank 1st / 143)
+# 📖 Educations & Skills
 
-# 🥇 Awards & Honors
+2024.09 - present, **Tsinghua University**, M. S. in Electric Information
 
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+*2020.09 - 2024.06*, **Zhejiang University**, B. Eng. in Ocean Technology
+
+- GPA: 4.74 / 5.00 or score 92.4 / 100 (rank 1st / 143)
+
+Programming💻 & Debugging 🐛🔧:  Python/Pytorch, C/C++, ROS, Linux(Arch Linux/Ubuntu...), $\LaTeX$ 
+
+Languages: English CET6 600
+
+# 📊 Experiences
+
+**2024.6 - 2024.12** New Jersey Institute of Technology, Department of Data Science, Research Assistant (Advisor - Prof. Shuai Zhang)
+
+- **Efficient LLM reward searcher for MORL:** 
+
+**2023.7 - 2024.9**  Zhejiang University & Tsinghua University, Undergraduate Dissertation (Advisor - Prof. Dongfang Ma (ZJU) & Yong Ren (THU) )
+
+- **AUV Target Tracking via Learning from Demonstration deployed high-precision simulation platform:** 
+
+**2023.2 - 2023.6**  Zhejiang University, Ocean College, Undergraduate Researcher (Advisor - Prof. Yulin Si)
+
+- **Underwater Robot Design:** Developed a compact, energy-save and easy-to-control underwater robot via Raspberry Pi, STM32 with the functions of navigation, obstacle avoidance, letter and color recognition. Data augmentation procedure based on BAGAN is utilized for enhancing the accuracy of the recognition task. We participated in the "Aotuo Cup" national underwater robot designing competition and won the first prize.
+
+**2022.10 - 2023.7**  Zhejiang University, Intelligent Underwater Optical Laboratory, Undergraduate Researcher (Advisor - Prof. Hong Song)
+
+- **Underwater Image Enhancement Based on Polarization Imaging:** A enhancing procedure maximizing the EME(measure of enhancement by entropy) of underwater polarized images based on stoke vector paramization and haze removal algorithm is proposed. I’ve also participated in applying this algorithm to a project concerning underwater 3D reconstruction and studied the basic knowledge about SLAM.
+
+
 
 # 💻 Miscellaneous
+
+I have a passion for computer-related knowledge and have a wide range of interests. I enjoy video editing and used to be a video uploader on a website called [bilibili](https://space.bilibili.com/21927744/), where I uploaded fun videos about computer knowledge and computer viruses. Up to 2019.6, I gained 22k+ subscribers, ranking within the top 10,000 of bilibili. During my university experiences, I accumulated two years of computer repair experience within the electrical volunteer association(EVA) of Zhejiang University. I also love running and during my college years, I keep running 10 kilometers daily during the winter vacation of final year of undergraduate study. These experiences have taught me that no matter how difficult the situation, I have the courage to persevere!
+
+
+
+This page was last updated at UTC 2024/09/27 14:39.
 
