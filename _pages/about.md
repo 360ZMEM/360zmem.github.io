@@ -134,6 +134,7 @@ USV-AUV Collaboration Framework for Underwater Tasks under Extreme Sea Condition
 *2020.09 - 2024.06*, **Zhejiang University**, B. Eng. in Ocean Technology
 
 - GPA: 4.74 / 5.00 or score 92.4 / 100 (rank 1st / 143)
+- Relative courses: Calculus(94), Linear Algebra(88), Probability Theory and Statistics(96), Partial Differential Equation(99), Foundamental of Ocean Engineering Modeling(ML-relative, 94), Software Development and Applications(95), Introduction to Computer Systems(93), 	Embedded Systems(96), Signals and Systems(97), Digital Signal Processing(98), Automatic Control Theory(95), Underwater Robot Design(96)
 
 Programming💻 & Debugging 🐛🔧:  Python/Pytorch, C/C++, ROS, Linux(Arch Linux/Ubuntu...), $\LaTeX$ 
 
@@ -165,5 +166,5 @@ I have a passion for computer-related knowledge and have a wide range of interes
 
 
 
-This page was last updated at UTC 2024/09/27 14:39.
+This page was last updated at UTC 2024/09/28 02:39.
 
