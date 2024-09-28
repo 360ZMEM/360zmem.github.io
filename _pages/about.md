@@ -139,15 +139,15 @@ Programming💻 & Debugging 🐛🔧:  Python/Pytorch, C/C++, ROS, Linux(Arch Li
 
 Languages: English CET6 600
 
-# 📊 Experiences
+# 📊 Selected Experiences
 
 **2024.6 - 2024.12** New Jersey Institute of Technology, Department of Data Science, Research Assistant (Advisor - Prof. Shuai Zhang)
 
-- **Efficient LLM reward searcher for MORL:** 
+- **Efficient LLM reward searcher for MORL:** An efficient reward function searcher using LLMs (ERFSL) is achieved by decomposing multi-objective tasks to provide clear textual task feedback, utilizing LLM's strong semantic understanding capabilities, and incorporating versatile search strategies.
 
 **2023.7 - 2024.9**  Zhejiang University & Tsinghua University, Undergraduate Dissertation (Advisor - Prof. Dongfang Ma (ZJU) & Yong Ren (THU) )
 
-- **AUV Target Tracking via Learning from Demonstration deployed high-precision simulation platform:** 
+- **AUV Target Tracking via Learning from Demonstration deployed on high-precision simulation platform:** A highly customizable and high-precision physics simulation platform called HPTVsim has been developed based on ROS and Gazebo. Combined with the RL compatibility layer based on RoboEnv Class, it can be easily applied to a variety of RL tasks. Then, a two-stage framework called FISHER of MADAC imitation learning (IL) and MAIGDT offline reinforcement learning (ORL) is employed to achieve high generalized and applicable multi-AUV target tracking policies without designating reward functions.
 
 **2023.2 - 2023.6**  Zhejiang University, Ocean College, Undergraduate Researcher (Advisor - Prof. Yulin Si)
 
