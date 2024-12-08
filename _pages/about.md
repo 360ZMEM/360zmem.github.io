@@ -46,15 +46,16 @@ LLMs as Efficient Reward Function Searchers for Custom-Environment MORL
 
 **Guanwen Xie**, Jingzehua Xu, Yiyuan Yang, Yimian Ding, Shuai Zhang
 
-[[**Website&Code**]](https://360zmem.github.io/LLMRsearcher/)  [[**Arxiv**]](https://arxiv.org/abs/2409.02428)  [[**BibTeX**]](https://360zmem.github.io/files/BibTeX/xiellmrsearcher.bib) 
+[[**Website&Code**]](https://360zmem.github.io/LLMRsearcher/)  [[**Arxiv**]](https://arxiv.org/abs/2409.02428v2)  [[**BibTeX**]](https://360zmem.github.io/files/BibTeX/xiellmrsearcher.bib) 
 
 **TLDR:** An efficient reward function searcher using LLMs (ERFSL) is achieved by decomposing multi-objective tasks to provide clear textual task feedback, utilizing LLM's strong semantic understanding capabilities, and incorporating versatile search strategies.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Mobile Computing 2024 </div><img src='files/images/fisher.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Transactions on Mobile Computing 2024 (Major Revision)</div><img src='files/images/fisher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 
 
@@ -166,5 +167,5 @@ I have a passion for computer-related knowledge and have a wide range of interes
 
 
 
-This page was last updated at UTC 2024/09/28 02:39.
+This page was last updated at UTC 2024/12/08 14:39.
 
