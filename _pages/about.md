@@ -36,19 +36,31 @@ Feel free to email me at [gwxie360@outlook.com](mailto:gwxie360@outlook.com) !
 ( \* denotes equal contribution )
 
 ---
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv</div><img src='files/images/PD_LLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+Leveraging LLMs for Personalized Parkinson's Disease Treatment
+
+Rongqian Zhang\*,  **Guanwen Xie\***, Jie Ying, Zhongsheng Hua
+
+[[**Code&SUPP PDF**]](https://github.com/360ZMEM/PD-LLM/)  [[**TechRxiv**]](https://www.techrxiv.org/users/887442/articles/1265499-leveraging-large-language-models-for-personalized-parkinson-s-disease-treatment)  [[**BibTeX**]](https://360zmem.github.io/files/BibTeX/zhangpdllm2025.bib) 
+
+**TLDR:** An efficient reward function searcher using LLMs (ERFSL) is achieved by decomposing multi-objective tasks to provide clear textual task feedback, utilizing LLM's strong semantic understanding capabilities, and incorporating versatile search strategies.
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='files/images/llmrsearcher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-
-
-
 LLMs as Efficient Reward Function Searchers for Custom-Environment MORL
 
 **Guanwen Xie**, Jingzehua Xu, Yiyuan Yang, Yimian Ding, Shuai Zhang
 
 [[**Website&Code**]](https://360zmem.github.io/LLMRsearcher/)  [[**Arxiv**]](https://arxiv.org/abs/2409.02428v2)  [[**BibTeX**]](https://360zmem.github.io/files/BibTeX/xiellmrsearcher.bib) 
 
-**TLDR:** An efficient reward function searcher using LLMs (ERFSL) is achieved by decomposing multi-objective tasks to provide clear textual task feedback, utilizing LLM's strong semantic understanding capabilities, and incorporating versatile search strategies.
+**TLDR:** Our study aims to design and validate a decision-making system for Parkinson’s Disease(PD) treatment based on large language Models(LLMs), to tackle the challenges of effectiveness, reliability, and interpretability.
 
 </div>
 </div>
@@ -167,5 +179,5 @@ I have a passion for computer-related knowledge and have a wide range of interes
 
 
 
-This page was last updated at UTC 2024/12/08 14:39.
+This page was last updated at UTC 2025/02/12 9:50.
 
